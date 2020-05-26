@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  DemoApp
+
+  Created by Andrey Timonenkov on 26.05.2020.
+  Copyright © 2020 Andrey Timonenkov. All rights reserved.
+*/
+
+"ok" = "OK";
+"cancel" = "Cancel";
+"yes" = "Yes";
+"no" = "No";
+"warning" = "Warning!";
+"error" = "Error";
+
+// ListViewController
+"list_view_controller.title" = "List";
+
+// ListTableViewCell
+"list_table_view_cell.unknown_name" = "Unknown name";
+
+// ListItemViewController
+"list_item_view_controller.title.default" = "List item";
+"list_item_view_controller.alert.save_request" = "Save name?";
+"list_item_view_controller.alert.empty_name_error" = "Name can't be nil";
+
+// ServiceViewController
+"service_view_controller.title" = "Service";
+"service_view_controller.title.loading" = "Loading...";
+
