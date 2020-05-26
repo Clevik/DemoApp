@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  DemoApp
+
+  Created by Andrey Timonenkov on 26.05.2020.
+  Copyright © 2020 Andrey Timonenkov. All rights reserved.
+*/
+
+"ok" = "ОК";
+"cancel" = "Отмена";
+"yes" = "Да";
+"no" = "Нет";
+"warning" = "Внимание!";
+"error" = "Ошибка";
+
+// ListViewController
+"list_view_controller.title" = "Список";
+
+// ListTableViewCell
+"list_table_view_cell.unknown_name" = "Имя не задано";
+
+// ListItemViewController
+"list_item_view_controller.title.default" = "Элемент";
+"list_item_view_controller.alert.save_request" = "Сохранить значение?";
+"list_item_view_controller.alert.empty_name_error" = "Имя не может быть пустым";
+
+// ServiceViewController
+"service_view_controller.title" = "Сервис";
+"service_view_controller.title.loading" = "Загрузка...";
