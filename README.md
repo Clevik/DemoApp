@@ -58,6 +58,7 @@ The downloading process should be reflected on the screen.
 
 ## Notes from the author
 
-* In the project using CoreData for storing entered items.
+* In the project using Core Data for storing entered items.
 * VIP pattern applied.
 * Reactive approach for the list screen without RxSwift/RxCocoa.
+* _**Working with network layer and Core Data must be improved.**_ Left as is due to limited development time.
